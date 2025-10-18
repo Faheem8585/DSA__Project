@@ -1,4 +1,10 @@
 # College Management System — C++ (DSA Final Project)
+![iostream](https://img.shields.io/badge/C%2B%2B%20header-iostream-00599C)
+![string](https://img.shields.io/badge/C%2B%2B%20header-string-00599C)
+![conio.h](https://img.shields.io/badge/Windows%20header-conio.h-0078D6)
+![unistd.h](https://img.shields.io/badge/POSIX%20header-unistd.h-000000)
+
+
 
 A simple console application for managing student and teacher records. It uses a linked-list structure and a menu-driven interface with an admin login.
 
